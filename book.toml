@@ -1,0 +1,6 @@
+[book]
+authors = ["Pablo A. Deymonnaz", "Diego Kingston", "Federico Carrone"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Criptografía Práctica y Blockchain"
