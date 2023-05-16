@@ -5,7 +5,7 @@ Bienvenidos y bienvenidas al sitio de la materia **Criptografía Práctica y Blo
 ## Docentes de la cátedra
 
 - **Profesores:**
-  - Dr. Diego Kinston
+  - Dr. Diego Kingston
   - Ing. Pablo A. Deymonnaz
 - **Ayudantes:**
   - Federico Carrone
